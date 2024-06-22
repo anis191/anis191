@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Anisul Alam
+#### A Learner | Problem-solver | Developer!
+An avid programmer with a love for problem-solving and a passion for lifelong learning.
 
-<!--
-**anis191/anis191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C / C++ / PYTHON / PANDAS / PHP / LARAVEL / HTML / CSS
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning PHP and Laravel 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anis191)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anisul-alam-a330042a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/anisulalam_bd)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anis191)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anis191&show_icons=true&count_private=true)  
+
