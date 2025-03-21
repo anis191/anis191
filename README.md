@@ -29,9 +29,9 @@
 ---
 
 ##  **Latest Projects**
- **[PhiMart - REST API](https://github.com/anis191/Django-REST-API)** - Scalable eCommerce API using Django DRF  
- **[EventZone](https://github.com/anis191/Event-Management-System)** - Full-featured event management system  
- **[Online_Blogging_Platform](https://github.com/anis191/Online_Blogging_Platform)** - Blogging platform using PHP & MySQL  
+-  **[PhiMart - REST API](https://github.com/anis191/Django-REST-API)** - Scalable eCommerce API using Django DRF  
+-  **[EventZone](https://github.com/anis191/Event-Management-System)** - Full-featured event management system  
+-  **[Online_Blogging_Platform](https://github.com/anis191/Online_Blogging_Platform)** - Blogging platform using PHP & MySQL  
 
 ---
 
