@@ -7,9 +7,9 @@
 ---
 
 ##  **About Me**  
--  Currently working on **[PhiMart - Django REST API](https://github.com/anis191/Django-REST-API)**  
--  Learning **Django REST Framework & AI Integration**  
--  Interested in **Web Development, API Design & AI Applications**  
+-  Currently working on **[Nova Studio Server](https://github.com/anis191/nova-studio-server)**  
+-  Learning **advanced backend technologies & AI/ML**  
+-  Interested in **Web Development, API Design, AI/ML Applications**  
 -  Regularly contributing to **open-source projects**  
 
 ---
@@ -29,18 +29,10 @@
 ---
 
 ##  **Latest Projects**
--  **[PhiMart - REST API](https://github.com/anis191/Django-REST-API)** - Scalable eCommerce API using Django DRF  
--  **[EventZone](https://github.com/anis191/Event-Management-System)** - Full-featured event management system  
--  **[Online_Blogging_Platform](https://github.com/anis191/Online_Blogging_Platform)** - Blogging platform using PHP & MySQL  
-
----
-
-##  **GitHub Stats**
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anis191&show_icons=true&locale=en&layout=compact&hide_border=true" alt="anis191" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anis191&show_icons=true&locale=en&hide_border=true" alt="anis191" /></p>
+-  **[VaxPlus](https://vaxplus-frontend.vercel.app/)** - Vaccine Management System  
+-  **[PhiMart](https://phimart-frontend.vercel.app/)** - Scalable eCommerce Platform  
+-  **[EventZone](https://event-zone.vercel.app/)** - Full-featured Event Management System  
+-  **[DockerHero](https://docker-hero.vercel.app/)** - Interactive React Application  
 
 ---
 
@@ -53,4 +45,4 @@
 
 ---
 
-  `"While( !succeed ) try_again();"`  
+`"While( !succeed ) try_again();"`
