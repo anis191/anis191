@@ -10,7 +10,7 @@
 -  Currently working on **[Nova Studio Server](https://github.com/anis191/nova-studio-server)**  
 -  Learning **Advanced Backend Technologies, Redis, Celery & AI/ML** 
 -  Passionate about **Web Development, API Design, ML-driven applications**  
--  Goal: Become a **world-class Full-Stack & Backend Engineer**  
+-  Goal: Become a **Software Engineer**  
 
 ---
 
@@ -43,14 +43,18 @@
 </p>
 
 ---
+
 ##  **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/anisul-alam-a330042a9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/anisulalam_bd"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/anisulalam"><img src="https://img.shields.io/badge/HackerRank-darkgreen?style=flat&logo=hackerrank&logoColor=white"></a>
-</p>
 
- **Reach me at:** anisulalam2002@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anisul-alam-a330042a9)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anisulalam_bd)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anisulalam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://anisulalam.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=flat&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1TaC6QFJZdkG3a03e1KjGMLNECfBhjIB4/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anisulalam2002@gmail.com)
+
+</p>
 
 ---
 
