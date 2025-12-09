@@ -8,9 +8,9 @@
 
 ##  **About Me**  
 -  Currently working on **[Nova Studio Server](https://github.com/anis191/nova-studio-server)**  
--  Learning **advanced backend technologies & AI/ML**  
--  Interested in **Web Development, API Design, AI/ML Applications**  
--  Regularly contributing to **open-source projects**  
+-  Learning **Advanced Backend Technologies, Redis, Celery & AI/ML** 
+-  Passionate about **Web Development, API Design, ML-driven applications**  
+-  Goal: Become a **world-class Full-Stack & Backend Engineer**  
 
 ---
 
@@ -36,12 +36,21 @@
 
 ---
 
+## GitHub Stats  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anis191&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anis191&layout=compact&theme=tokyonight" />
+</p>
+
+---
 ##  **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/anisul-alam-a330042a9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/anisulalam_bd"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
   <a href="https://www.hackerrank.com/anisulalam"><img src="https://img.shields.io/badge/HackerRank-darkgreen?style=flat&logo=hackerrank&logoColor=white"></a>
 </p>
+
+ **Reach me at:** anisulalam2002@gmail.com
 
 ---
 
